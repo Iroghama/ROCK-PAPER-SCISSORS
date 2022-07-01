@@ -95,7 +95,7 @@ Below are links to some YouTube videos that i found helpful:
 
 - A video on [for else](https://youtu.be/38svC3U7hVo)
 
--A video on [execution flow and loops](https://youtu.be/CLHCeT2pRwA)
+- A video on [execution flow and loops](https://youtu.be/CLHCeT2pRwA)
 
 - A video on [break continue and pass](https://youtu.be/JCRpVwtVL4I)
 
